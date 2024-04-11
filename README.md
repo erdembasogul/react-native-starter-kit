@@ -43,6 +43,6 @@ This command will start Expo CLI and launch the development server. Once the dev
 
 ## Additional Information
 * The core structure of the project is in the App.tsx file.
-* Navigation structures such as StackNavigator or TabNavigator for managing screens can be found in the src/navigation folder.
+* Navigation structures such as MainStackNavigator or TabNavigator for managing screens can be found in the src/navigation folder.
 * Files for setting up the Redux store can be found in src/store or a similar folder for Redux usage.
 * This project base is designed to quickly start React Native applications. You can extend and customize this base according to your needs.
