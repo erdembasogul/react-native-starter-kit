@@ -1,5 +1,7 @@
 
 # react-native-starter-kit
+[![tr](https://img.shields.io/badge/lang-tr-red.svg)](https://github.com/erdembasogul/react-native-starter-kit/blob/main/README.tr.md)
+
 This project is a project base created using React Native and Expo. The project includes technologies such as TypeScript, react-navigation/native, and Redux Toolkit. This project base can be used to start new React Native applications or as a starting point for existing projects.
 
 
