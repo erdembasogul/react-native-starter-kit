@@ -1,45 +1,46 @@
 
 # react-native-starter-kit
-Bu proje, React Native ve Expo kullanılarak oluşturulmuş bir project base'dir. Proje, TypeScript, react-navigation/native ve Redux Toolkit gibi teknolojileri içermektedir. Bu project base, yeni React Native uygulamaları başlatmak veya mevcut projeler için bir başlangıç ​​noktası olarak kullanılabilir.
+This project is a project base created using React Native and Expo. The project includes technologies such as TypeScript, react-navigation/native, and Redux Toolkit. This project base can be used to start new React Native applications or as a starting point for existing projects.
 
 
-## Kullanılan Teknolojiler ve Paketler
+## Technologies and Packages Used
+
 * TypeScript: Statically typed JavaScript for modern development.
-* react-navigation/native: React Navigation, mobil uygulamalar için navigasyon yönetimi sağlar.
-* @react-navigation/native-stack: Stack-based navigation için React Navigation paketi.
-* reduxjs/toolkit: Redux için ofisayonel birçok utility ve toolkit.
-* expo: Universal React uygulamaları için bir araç.
+* react-navigation/native: Manages navigation for mobile applications.
+* @react-navigation/native-stack: Package for stack-based navigation with React Navigation.
+* reduxjs/toolkit: Provides a collection of utilities and a toolkit for Redux.
+* expo: Tool for universal React applications.
 
-## Nasıl Başlatılır
+## Getting Started
 
-1. Projeyi İndirme
+1. Clone the Project
 
 ```
 git clone https://github.com/your-username/react-native-project-base.git
 cd react-native-project-base
 ```
 
-2. Gerekli Paketlerin Yüklenmesi
+2. Install Required Packages
 
 ```
 npm install
 ```
-  veya
+  or
 
 ```
 yarn install
 ```
 
-3. Projenin Çalıştırılması
+3. Running the Project
 
 ```
 expo start
 ```
 
-Bu komut, Expo CLI'yi başlatacak ve geliştirme sunucusunu (development server) başlatacaktır. Geliştirme sunucusu çalıştıktan sonra, projeyi iOS veya Android simulatöründe veya fiziksel cihazda görebilirsiniz.
+This command will start Expo CLI and launch the development server. Once the development server is running, you can view the project on an iOS or Android simulator or on a physical device.
 
-## Ek Bilgiler
-* Projenin temel yapısı App.tsx dosyasındadır.
-* Ekranların yönetimi için src/navigation klasöründe StackNavigator veya TabNavigator gibi navigasyon yapıları bulunabilir.
-* Redux kullanımı için src/store veya benzeri bir klasörde Redux store'unun oluşturulduğu dosyalar bulunabilir.
-* Bu proje temeli, React Native uygulamalarının hızlı bir şekilde başlaması için tasarlanmıştır. İhtiyaçlarınıza göre bu temeli genişletebilir ve özelleştirebilirsiniz.
+## Additional Information
+* The core structure of the project is in the App.tsx file.
+* Navigation structures such as StackNavigator or TabNavigator for managing screens can be found in the src/navigation folder.
+* Files for setting up the Redux store can be found in src/store or a similar folder for Redux usage.
+* This project base is designed to quickly start React Native applications. You can extend and customize this base according to your needs.
