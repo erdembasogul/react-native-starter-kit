@@ -1,6 +1,7 @@
 
 # react-native-starter-kit
 [![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/erdembasogul/react-native-starter-kit/blob/main/README.tr.md)
+
 Bu proje, React Native ve Expo kullanılarak oluşturulmuş bir project base'dir. Proje, TypeScript, react-navigation/native ve Redux Toolkit gibi teknolojileri içermektedir. Bu project base, yeni React Native uygulamaları başlatmak veya mevcut projeler için bir başlangıç ​​noktası olarak kullanılabilir.
 
 
