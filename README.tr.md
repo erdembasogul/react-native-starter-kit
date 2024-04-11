@@ -1,6 +1,6 @@
 
 # react-native-starter-kit
-[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/erdembasogul/react-native-starter-kit/blob/main/README.md)
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/erdembasogul/react-native-starter-kit/blob/main/README.tr.md)
 
 Bu proje, React Native ve Expo kullanılarak oluşturulmuş bir project base'dir. Proje, TypeScript, react-navigation/native ve Redux Toolkit gibi teknolojileri içermektedir. Bu project base, yeni React Native uygulamaları başlatmak veya mevcut projeler için bir başlangıç ​​noktası olarak kullanılabilir.
 
@@ -42,6 +42,6 @@ Bu komut, Expo CLI'yi başlatacak ve geliştirme sunucusunu (development server)
 
 ## Ek Bilgiler
 * Projenin temel yapısı App.tsx dosyasındadır.
-* Ekranların yönetimi için src/navigation klasöründe StackNavigator veya TabNavigator gibi navigasyon yapıları bulunabilir.
+* Ekranların yönetimi için src/navigation klasöründe MainStackNavigator veya TabNavigator gibi navigasyon yapıları bulunabilir.
 * Redux kullanımı için src/store veya benzeri bir klasörde Redux store'unun oluşturulduğu dosyalar bulunabilir.
 * Bu proje temeli, React Native uygulamalarının hızlı bir şekilde başlaması için tasarlanmıştır. İhtiyaçlarınıza göre bu temeli genişletebilir ve özelleştirebilirsiniz.
